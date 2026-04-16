@@ -58,6 +58,9 @@ form{
     flex-direction: column;
     gap: 10px ;
 }
+input[type=radio]{
+    accent-color: #7272b4;
+}
 .button{
     padding: 10px 20px;
     border-radius: 10px;
