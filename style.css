@@ -19,6 +19,13 @@
     overflow-x: hidden;
 
 }
+form{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
 .banner{
     padding: 15px 20px;
     background-color: #7272b4;
